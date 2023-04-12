@@ -1,4 +1,4 @@
-# House priceprediction
+# House price prediction
 
 
-### Tensorflow | Keras practice predicting House Prices
+### Tensorflow | Keras practice notebook
